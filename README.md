@@ -1,2 +1,2 @@
 # DDS_TO_TGA
-Uses paint.net to go through all specified directories and convert the DDS files to TGA
+Goes through all specified directories and converts the DDS files to TGA. Saves the new files in a specified target directory
